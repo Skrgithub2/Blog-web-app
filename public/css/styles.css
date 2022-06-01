@@ -19,7 +19,9 @@ html {
 .navbar-nav  li a:hover {
     color: #1abc9c !important;
 }
-
+#compose{
+  font-size: 14px;
+}
 .footer-padding {
 	padding-bottom: 60px;
 }
